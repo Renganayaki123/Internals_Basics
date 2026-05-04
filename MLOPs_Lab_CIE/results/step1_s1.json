@@ -1,0 +1,18 @@
+{
+    "experiment_name": "freshbasket-delivery-time-min",
+    "models": [
+        {
+            "name": "Ridge",
+            "mae": 4.888063223188021,
+            "rmse": 6.382054088647188
+        },
+        {
+            "name": "RandomForest",
+            "mae": 5.9898799999999905,
+            "rmse": 7.0035616984502855
+        }
+    ],
+    "best_model": "Ridge",
+    "best_metric_name": "mae",
+    "best_metric_value": 4.888063223188021
+}

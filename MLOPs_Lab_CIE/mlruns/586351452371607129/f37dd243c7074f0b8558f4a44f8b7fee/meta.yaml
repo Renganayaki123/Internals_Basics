@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/kmren/OneDrive/Desktop/MLOPs_Lab_CIE/mlruns/586351452371607129/f37dd243c7074f0b8558f4a44f8b7fee/artifacts
+end_time: 1777868457030
+entry_point_name: ''
+experiment_id: '586351452371607129'
+lifecycle_stage: active
+run_id: f37dd243c7074f0b8558f4a44f8b7fee
+run_name: Ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777868447525
+status: 3
+tags: []
+user_id: kmren

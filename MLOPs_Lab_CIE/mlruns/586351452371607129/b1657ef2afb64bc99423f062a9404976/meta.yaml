@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/kmren/OneDrive/Desktop/MLOPs_Lab_CIE/mlruns/586351452371607129/b1657ef2afb64bc99423f062a9404976/artifacts
+end_time: 1777868464906
+entry_point_name: ''
+experiment_id: '586351452371607129'
+lifecycle_stage: active
+run_id: b1657ef2afb64bc99423f062a9404976
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777868457044
+status: 3
+tags: []
+user_id: kmren

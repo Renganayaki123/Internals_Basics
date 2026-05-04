@@ -1,0 +1,13 @@
+{
+    "search_type": "grid",
+    "n_folds": 5,
+    "total_trials": 27,
+    "best_params": {
+        "max_depth": 10,
+        "min_samples_split": 2,
+        "n_estimators": 250
+    },
+    "best_mae": 5.865359999999994,
+    "best_cv_mae": 7.344265999999978,
+    "parent_run_name": "tuning-freshbasket"
+}

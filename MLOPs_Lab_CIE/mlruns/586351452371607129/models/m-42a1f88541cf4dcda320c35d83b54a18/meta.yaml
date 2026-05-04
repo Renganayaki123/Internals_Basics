@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/kmren/OneDrive/Desktop/MLOPs_Lab_CIE/mlruns/586351452371607129/models/m-42a1f88541cf4dcda320c35d83b54a18/artifacts
+creation_timestamp: 1777868457402
+experiment_id: '586351452371607129'
+last_updated_timestamp: 1777868464878
+model_id: m-42a1f88541cf4dcda320c35d83b54a18
+model_type: null
+name: RandomForest
+source_run_id: b1657ef2afb64bc99423f062a9404976
+status: 2
+status_message: null

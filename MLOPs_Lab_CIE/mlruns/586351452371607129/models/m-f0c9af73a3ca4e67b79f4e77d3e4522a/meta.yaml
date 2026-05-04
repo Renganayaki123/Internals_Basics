@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/kmren/OneDrive/Desktop/MLOPs_Lab_CIE/mlruns/586351452371607129/models/m-f0c9af73a3ca4e67b79f4e77d3e4522a/artifacts
+creation_timestamp: 1777868447764
+experiment_id: '586351452371607129'
+last_updated_timestamp: 1777868457003
+model_id: m-f0c9af73a3ca4e67b79f4e77d3e4522a
+model_type: null
+name: Ridge
+source_run_id: f37dd243c7074f0b8558f4a44f8b7fee
+status: 2
+status_message: null

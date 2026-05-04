@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/kmren/OneDrive/Desktop/MLOPs_Lab_CIE/mlruns/586351452371607129/bf07df77bb204182b5c4b6bec21d503b/artifacts
+end_time: 1777868516785
+entry_point_name: ''
+experiment_id: '586351452371607129'
+lifecycle_stage: active
+run_id: bf07df77bb204182b5c4b6bec21d503b
+run_name: tuning-freshbasket
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777868471869
+status: 3
+tags: []
+user_id: kmren

@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/kmren/OneDrive/Desktop/MLOPs_Lab_CIE/mlruns/0/models/m-1da708db920247628c85496e486233d2/artifacts
+creation_timestamp: 1777868523985
+experiment_id: '0'
+last_updated_timestamp: 1777868532536
+model_id: m-1da708db920247628c85496e486233d2
+model_type: null
+name: model
+source_run_id: d72bdd0571254234ac69e3f5402c2910
+status: 2
+status_message: null

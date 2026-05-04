@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/kmren/OneDrive/Desktop/MLOPs_Lab_CIE/mlruns/0/d72bdd0571254234ac69e3f5402c2910/artifacts
+end_time: 1777868532663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d72bdd0571254234ac69e3f5402c2910
+run_name: bald-vole-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777868523848
+status: 3
+tags: []
+user_id: kmren
